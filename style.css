@@ -7,5 +7,9 @@ body{
   background-color:lightblue;
 }
 a {
+  font-family :Times New Roman ;
   color : blue ;
+}
+input {
+  color : green ;
 }
