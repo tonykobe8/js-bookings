@@ -3,6 +3,9 @@ h1 {
   font-size : 18px ;
   color : blue ;
 }
-p {
-  background-image :url("https://stackblitz.com/files/js-bookings/github/tonykobe8/js-bookings/master/images.jpeg"); 
+body{
+  background-color:lightblue;
+}
+a {
+  color : blue ;
 }
