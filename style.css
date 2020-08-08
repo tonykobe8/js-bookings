@@ -12,6 +12,7 @@ a {
 }
 input {
   color : green ;
+  border : 1px solid blue ;
 }
 label { font-family :Times New Roman ; 
 } 
@@ -19,8 +20,10 @@ select {
   color : blue ;
 }
 h2 {
+  font-size :35px ;
   font-family : Monospace ; 
   color : brown ;
+  background-color : aqua  ;
 }
 label1 {
 color : orange ;
@@ -39,4 +42,9 @@ p3{
 }
 hr {
   border : 3px solid green ;
+}
+legend {
+  border : 5px darkgoldenrod ; 
+  color : darkcyan;
+  font-size : 20px ;
 }
