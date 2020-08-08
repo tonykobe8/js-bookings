@@ -9,6 +9,7 @@ body{
 a {
   font-family :Times New Roman ;
   color : blue ;
+  font-size : 18px ;
 }
 input {
   color : green ;
