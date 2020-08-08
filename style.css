@@ -15,3 +15,6 @@ input {
 }
 label { font-family :Times New Roman ; 
 } 
+select {
+  color : blue ;
+}
