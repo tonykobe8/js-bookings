@@ -18,3 +18,19 @@ label { font-family :Times New Roman ;
 select {
   color : blue ;
 }
+h2 {
+  font-family : Monospace ; 
+  color : brown ;
+}
+label1 {
+color : orange ;
+}
+label2 {
+  color :  blue ;
+} 
+label3 {
+  color : orangered;
+}
+label4 {
+  color :cornflowerblue;
+}
